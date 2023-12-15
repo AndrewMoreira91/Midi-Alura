@@ -22,6 +22,14 @@ h1 {
   font-size: 2rem;
 }
 
+p {
+  background-color: white;
+  padding: 10px;
+  border-radius: 7px;
+  margin-bottom: 10px;
+
+}
+
 .teclado {
   background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
   box-shadow: 6px 8px 0 6px #666, 10px 10px 10px #000;
